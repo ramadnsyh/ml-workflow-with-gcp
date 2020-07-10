@@ -1,0 +1,10 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud
+google-api-python-client
+google-cloud-storage
+pandas
+jcopml
+xgboost
+scikit-learn==0.22
+numpy
